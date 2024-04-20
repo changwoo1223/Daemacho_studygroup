@@ -17,7 +17,7 @@
  - 스터디원 끼리 상호작용을 하면서 모르는 것은 질문하고, 알려주는 걸 목표로 합니다.
 
 ### 문서
-단계별로 알아보기 1단계 ~ 16단계  
+단계별로 알아보기 1단계 ~ 16단계 
 Link: [here](https://www.acmicpc.net/step)
 <br/> 왕초보 
 Link: [here](https://www.acmicpc.net/workbook/view/2032)
